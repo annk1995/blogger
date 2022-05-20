@@ -16,9 +16,9 @@ python
 
 sqllite
 # installation
-Clone this repository to a location in your file system. git clone 
+Clone this repository to a location in your file system. git clone https://github.com/annk1995/blogger.git
 
-Open terminal command line then navigate to the root folder of the application. cd news_app
+Open terminal command line then navigate to the root folder of the application. cd blogger
 
 Run pip -m venv virtual
 
